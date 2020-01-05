@@ -51,17 +51,17 @@ The dynamics of the arm are neglected as the arm is allowed to move with a very 
 The setup in which robot arm works is shown below - 
 <p align="center">
 <h5>Simulation Environment</h5>
-<img src="/output/setup.png">
+<img src="/output/setup.PNG" width="70%">
 </p>
 The simulation will show the usage of arm workspace. The sprayer needs to be configured on each run for a specific color. Below figure shows the object being sprayed black.
 <p align="center">
 <h5>Object Sprayed</h5>
-<img src="/output/sprayed.png">
+<img src="/output/sprayed.PNG" width="70%">
 </p>
 The conveyor has three different sized objects. Based on this size, the robot arm will pick each of the three objects to its specific sprayer. Post the sprayer action completion, the arm will place the object on the table nearby. When the task is complete, the robot arm will go back to its initial configuration.
 <p align="center">
 <h5>Completed Task</h5>
-<img src="/output/completed.png">
+<img src="/output/completed.PNG" width="70%">
 </p>
 
 ## License 
